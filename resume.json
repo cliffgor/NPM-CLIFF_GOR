@@ -1,1 +1,20 @@
-node_modules/
+{
+    "Personal Statement": [
+      "I am software developer passionate about Virtual reality, Artificial intelligence and augmented reality. I specialize in front-end and mobile development with a focus on Angular 2, Javascript, Java, Android, React JS, Node JS, Ember, and Python.My interests also lie in Robotics and Gaming and how they come together. In my free time, I like skating and like participating in Hackathons."
+    ],
+
+
+    "Experience": [
+      "Chezo Gaming/hackathon event: (2nd October 2016,  Nairobi): Participated in the hackathon where we built a game addressing water pollution and how to tackle the problem. The team I was in didn’t win but we came up with a playable game that educates people on littering and the dangers it can bring to people",
+      "I.AM/ hackathon event: (June 13th-July 29th  2016, Nairobi) :I participated in the event where one was to come up with a solution to come with ideas on how to enhance access to sexual and reproductive health Information and services for the youth. Unfortunately, I didn’t win but came up with an idea of creating a platform where youths can talk ",
+      "",
+      ""
+    ],
+    "Tech Stack": ["Node Js", "Angular Js", "React Js", "React Native", "Java", "Android", "HTML5", "CSS"],
+    "Projects": [
+      "USSD(Unstructured Supplementary Service Data) :A USSD app using Africas Talking API  that enables users to key in a shortcode on their phone and select some of the options given to subscribe to a specific service. The project was mainly done for professional practice and growth in the software development journey :- https://github.com/cliffgor/Ussd  :-https://ussd-africastalking-api.herokuapp.com/",
+      "Flappy Bird clone:- This is a clone of flappy bird showcasing my react skills and passion for gaming :https://github.com/cliffgor/FlappyBird :https://flappy-bird-1-0.herokuapp.com/"
+    ],
+    "Contact": ["Phone Number : +254712796467 ",
+    "Email : cliffordgor@hotmail.com"]
+  }
